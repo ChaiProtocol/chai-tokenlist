@@ -1,0 +1,46 @@
+{
+  "name": "Chai Token List",
+  "timestamp": "2022-05-05T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/assets/logo.png",
+  "tags": {},
+  "keywords": ["chai", "defi"],
+  "tokens": [
+    {
+      "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+      "chainId": 1313161554,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0xB12BFcA5A55806AaF64E99521918A4bf0fC40802/logo.png"
+    },
+    {
+      "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+      "chainId": 1313161554,
+      "name": "TetherUSD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0x4988a896b1227218e4A686fdE5EabdcAbd91571f/logo.png"
+    },
+    {
+      "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+      "chainId": 1313161554,
+      "name": "Wrapped NEAR",
+      "symbol": "NEAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d/logo.png"
+    },
+    {
+      "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+      "chainId": 1313161554,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0xF4eB217Ba2454613b15dBdea6e5f22276410e89e/logo.png"
+    }
+  ]
+}
