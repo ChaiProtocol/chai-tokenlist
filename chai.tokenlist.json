@@ -1,10 +1,10 @@
 {
   "name": "Chai Token List",
-  "timestamp": "2022-05-05T00:00:00.000Z",
+  "timestamp": "2022-05-06T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/assets/logo.png",
   "tags": {},
@@ -30,8 +30,8 @@
       "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
       "chainId": 1313161554,
       "name": "Wrapped NEAR",
-      "symbol": "NEAR",
-      "decimals": 18,
+      "symbol": "WNEAR",
+      "decimals": 24,
       "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d/logo.png"
     },
     {
