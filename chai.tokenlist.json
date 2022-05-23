@@ -1,10 +1,10 @@
 {
   "name": "Chai Token List",
-  "timestamp": "2022-05-08T00:00:00.000Z",
+  "timestamp": "2022-05-23T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/assets/logo.png",
   "tags": {},
@@ -41,14 +41,6 @@
       "name": "USN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0x5183e1B1091804BC2602586919E6880ac1cf2896/logo.svg"
-    },
-    {
-      "address": "0x098D5b6a26BCA1d71f2335805d71b244f94E8A5f",
-      "chainId": 1313161554,
-      "symbol": "UST",
-      "name": "Wrapped UST Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ChaiProtocol/chai-tokenlist/master/logos/0x098D5b6a26BCA1d71f2335805d71b244f94E8A5f/logo.svg"
     },
     {
       "address": "0xDA2585430fEf327aD8ee44Af8F1f989a2A91A3d2",
